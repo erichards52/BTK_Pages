@@ -14,6 +14,6 @@ for jpnb in BTK_Outputs/*.ipynb; do
 done
   
 rm -rf BTK_Outputs/*.ipynb
-git add BTK_Outputs
-git commit -m "Updated HTMLS"
-git push origin master   
+#git add BTK_Outputs
+#git commit -m "Updated HTMLS"
+#git push origin master --force
